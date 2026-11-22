@@ -2,7 +2,7 @@
 
 *[English](#english) · [Français](#français)*
 
-![The printed plate](images/plate.jpg)
+![Closing, bending and opening the printed zipper](images/zipper.gif)
 
 ---
 
@@ -13,6 +13,8 @@ A working zipper printed **in one go** on a Prusa XL: rigid PLA teeth on two fle
 I could not find a published example of this rigid-on-flexible mix printed on a single plate. The printed zippers I found online are all-rigid link chains (for example LoboCNC's *Print-in-Place Zipper*, 2023).
 
 The parts were designed, checked and sliced by AI agents. I tested each version in hand and said what was wrong. It took ten days (11 to 22 November 2026).
+
+![The printed plate](images/plate.jpg)
 
 ### What you get
 | Path | Content |
@@ -72,6 +74,8 @@ Une fermeture éclair qui fonctionne, imprimée **en une seule fois** sur une Pr
 Je n'ai pas trouvé d'exemple publié de ce mélange rigide sur souple imprimé d'un seul plateau. Les fermetures imprimées trouvées en ligne sont des chaînes de maillons tout en rigide (par exemple *Print-in-Place Zipper* de LoboCNC, 2023).
 
 Les pièces ont été conçues, contrôlées et tranchées par des agents IA. J'ai testé chaque version en main et dit ce qui n'allait pas. Dix jours, du 11 au 22 novembre 2026.
+
+![Le plateau imprimé](images/plate.jpg)
 
 ### Contenu
 | Chemin | Contenu |
