@@ -1,0 +1,6 @@
+check_identity.txt
+check_identity.py
+BRIEF-*.md
+rapport-*.md
+__pycache__/
+.venv/
