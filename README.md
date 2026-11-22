@@ -2,6 +2,8 @@
 
 *[English](#english) · [Français](#français)*
 
+**Print it / À imprimer : [Printables](https://www.printables.com/model/1925835-platpu-print-in-place-zipper-prusa-xl-multi-materi)**
+
 ![Closing the printed zipper, then bending it](images/zipper.gif)
 
 ---
