@@ -2,7 +2,7 @@
 
 *[English](#english) · [Français](#français)*
 
-![Closing, bending and opening the printed zipper](images/zipper.gif)
+![Closing the printed zipper, then bending it](images/zipper.gif)
 
 ---
 
